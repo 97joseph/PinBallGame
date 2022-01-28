@@ -20,7 +20,9 @@ The report should be maximum 8 pages with the font size of 1 Ipt, excluding fron
 
 ■ Design and implementation. Please describe briefly your game design and the implementation of the classes and the key functions you have used in the game, using diagram if necessary (approx I page)
 
- ■ Implementation. Please include detailed descriptions of the new classes, functions and concepts you have implemented for each of the above 4 requirements including lane/ball-pin/players-scores and multiple computers, with diagram/plots/snapshots of source code if necessary (approx. 4 pages) ■ Memory and scalability. The method you use to cope with memory (e.g. too many detailed objects to be loaded) and scalability (e.g. 1,000 or even more online players at the same time) issues, with diagram/plots/snapshots of source code if necessary (approx. 0.5 page) 
+ ■ Implementation. Please include detailed descriptions of the new classes, functions and concepts you have implemented for each of the above 4 requirements including lane/ball-pin/players-scores and multiple computers, with diagram/plots/snapshots of source code if necessary (approx. 4 pages) 
+
+■ Memory and scalability. The method you use to cope with memory (e.g. too many detailed objects to be loaded) and scalability (e.g. 1,000 or even more online players at the same time) issues, with diagram/plots/snapshots of source code if necessary (approx. 0.5 page) 
 
 ■ Strengths and weaknesses of programming languages in implementing the game. Your own reflective thinking about the strengths and weaknesses of C. programming language, as compared to other development tool(s) such as Python/Java/C#, especially your own experiences in the development of the game (approx. I page).
 Challenges and solutions if your game to be scaled up for massive online players 
